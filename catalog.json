@@ -1,0 +1,2019 @@
+{
+  "name": "OpenLogia",
+  "license": "CC0-1.0",
+  "description": "Metadata only. This file does not include resource texts.",
+  "generatedAt": "2026-11-14T05:15:13.466Z",
+  "items": [
+    {
+      "id": "kjv",
+      "title": "King James Version",
+      "short": "KJV",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible.org marks this 1769 King James text public domain. A royal letters patent still restricts printing and importing this translation in the United Kingdom; that privilege does not apply to reading it elsewhere.",
+      "sourceUrl": "https://ebible.org/Scriptures/eng-kjv_usfm.zip",
+      "proofUrl": "https://ebible.org/find/details.php?id=eng-kjv",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "asv",
+      "title": "American Standard Version",
+      "short": "ASV",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible.org marks the 1901 American Standard Version public domain.",
+      "sourceUrl": "https://ebible.org/Scriptures/eng-asv_usfm.zip",
+      "proofUrl": "https://ebible.org/find/details.php?id=eng-asv",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "web",
+      "title": "World English Bible",
+      "short": "WEB",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "Public-domain text of the World English Bible, Classic edition (the divine name is rendered \u201cYahweh\u201d). \u201cWorld English Bible\u201d is a trademark of eBible.org; this import does not change the wording.",
+      "sourceUrl": "https://ebible.org/Scriptures/eng-web_usfm.zip",
+      "proofUrl": "https://ebible.org/find/details.php?id=eng-web",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "ylt",
+      "title": "Young's Literal Translation",
+      "short": "YLT",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible.org marks Young's Literal Translation (1898) public domain.",
+      "sourceUrl": "https://ebible.org/Scriptures/engylt_usfm.zip",
+      "proofUrl": "https://ebible.org/find/details.php?id=engylt",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "darby",
+      "title": "Darby Translation",
+      "short": "Darby",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible.org marks J. N. Darby's translation public domain.",
+      "sourceUrl": "https://ebible.org/Scriptures/engDBY_usfm.zip",
+      "proofUrl": "https://ebible.org/find/details.php?id=engDBY",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "bsb",
+      "title": "Berean Standard Bible",
+      "short": "BSB",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "The publisher states that the Berean Bible texts were placed in the public domain on 30 April 2023 and that licensing is not required for any use. The USFM file is the eBible.org distribution of that text.",
+      "sourceUrl": "https://ebible.org/Scriptures/engbsb_usfm.zip",
+      "proofUrl": "https://berean.bible/licensing.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "BSB Publishing / eBible.org"
+    },
+    {
+      "id": "lsv",
+      "title": "Literal Standard Version",
+      "short": "LSV",
+      "type": "bible",
+      "license": "CC BY-SA 4.0",
+      "licenseNotes": "eBible copyright page for englsv: the Literal Standard Version (\u00a9 2020 Covenant Press and the Covenant Christian Coalition) is shared under Creative Commons Attribution-ShareAlike 4.0. Redistribution keeps the copyright line and the same license.",
+      "sourceUrl": "https://ebible.org/Scriptures/englsv_usfm.zip",
+      "proofUrl": "https://ebible.org/englsv/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Covenant Press / eBible.org"
+    },
+    {
+      "id": "fbv",
+      "title": "Free Bible Version",
+      "short": "FBV",
+      "type": "bible",
+      "license": "CC BY-SA 4.0",
+      "licenseNotes": "eBible copyright page for engfbv, matching https://freebibleversion.org/: the Free Bible Version is shared under Creative Commons Attribution-ShareAlike 4.0. This is the current complete eBible file.",
+      "sourceUrl": "https://ebible.org/Scriptures/engfbv_usfm.zip",
+      "proofUrl": "https://ebible.org/engfbv/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Free Bible Ministry / eBible.org"
+    },
+    {
+      "id": "msb",
+      "title": "Majority Standard Bible",
+      "short": "MSB",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "https://berean.bible/terms.htm dedicates the Berean Bible and Majority Bible texts to the public domain as of 30 April 2023. The USFM file is the eBible.org Majority Standard Bible (engmsb).",
+      "sourceUrl": "https://ebible.org/Scriptures/engmsb_usfm.zip",
+      "proofUrl": "https://berean.bible/terms.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Berean Bible Translation Committee / eBible.org"
+    },
+    {
+      "id": "bbe",
+      "title": "Bible in Basic English",
+      "short": "BBE",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible copyright page for engBBE marks the Bible in Basic English public domain.",
+      "sourceUrl": "https://ebible.org/Scriptures/engBBE_usfm.zip",
+      "proofUrl": "https://ebible.org/engBBE/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "gnv",
+      "title": "Geneva Bible (1599)",
+      "short": "GNV",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible copyright page for enggnv marks the Geneva Bible (1599) public domain.",
+      "sourceUrl": "https://ebible.org/Scriptures/enggnv_usfm.zip",
+      "proofUrl": "https://ebible.org/enggnv/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "dra",
+      "title": "Douay-Rheims",
+      "short": "DRA",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible copyright page for engDRA marks the Douay-Rheims American edition (1899) public domain.",
+      "sourceUrl": "https://ebible.org/Scriptures/engDRA_usfm.zip",
+      "proofUrl": "https://ebible.org/engDRA/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "webster",
+      "title": "Webster Bible",
+      "short": "Webster",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible copyright page for engwebster marks Noah Webster's Bible public domain.",
+      "sourceUrl": "https://ebible.org/Scriptures/engwebster_usfm.zip",
+      "proofUrl": "https://ebible.org/engwebster/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "tyndale",
+      "title": "Tyndale New Testament",
+      "short": "Tyndale",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible copyright page for engtnt marks William Tyndale's 1534 New Testament public domain. The archive is the New Testament only.",
+      "sourceUrl": "https://ebible.org/Scriptures/engtnt_usfm.zip",
+      "proofUrl": "https://ebible.org/engtnt/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "brent",
+      "title": "Brenton Septuagint",
+      "short": "Brenton",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible copyright page for eng-Brenton: Sir Lancelot C. L. Brenton's English Septuagint, published 1851, public domain. Old Testament books only.",
+      "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfm.zip",
+      "proofUrl": "https://ebible.org/eng-Brenton/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "jps",
+      "title": "JPS Tanakh (1917)",
+      "short": "JPS",
+      "type": "bible",
+      "license": "Public Domain",
+      "licenseNotes": "eBible copyright page for engjps marks the Jewish Publication Society Tanakh of 1917 public domain. The archive is the Hebrew canon (Old Testament) only.",
+      "sourceUrl": "https://ebible.org/Scriptures/engjps_usfm.zip",
+      "proofUrl": "https://ebible.org/engjps/copyright.htm",
+      "downloadedAt": "2026-11-14",
+      "publisher": "eBible.org"
+    },
+    {
+      "id": "mhc",
+      "title": "Matthew Henry's Complete Commentary",
+      "short": "Henry",
+      "author": "Matthew Henry",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire module MHC (Matthew Henry's Complete Commentary), DistributionLicense=Public Domain, version 2.2. The module notes that its electronic text was prepared from an edition CCEL hosted. Stage 1 uses the module under that public-domain distribution license rather than downloading CCEL's own files.",
+      "sourceUrl": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/MHC.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=MHC",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "jfb",
+      "title": "Jamieson\u2013Fausset\u2013Brown Commentary",
+      "short": "JFB",
+      "author": "Jamieson, Fausset, and Brown",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire module JFB, DistributionLicense=Public Domain. The module history names a CCEL export as an upstream file. Stage 1 uses the module under its stated public-domain distribution license.",
+      "sourceUrl": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/JFB.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=JFB",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "barnes",
+      "title": "Barnes' Notes on the Bible",
+      "short": "Barnes",
+      "author": "Albert Barnes",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex module sibarnes.conf: DistributionLicense=Public Domain. About names Albert Barnes (1798\u20131870) and his Notes on the whole Bible. This replaces the CrossWire Barnes module, which was New Testament only. The underlying notes are 19th-century.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sibarnes.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/barnes/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "gill",
+      "title": "Gill's Exposition of the Entire Bible",
+      "short": "Gill",
+      "author": "John Gill",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex SWORD module sigill, DistributionLicense=Public Domain. The download note on the commentary page says \u201cPublic domain \u2014 free to copy, share and build on.\u201d The underlying exposition is John Gill's 18th-century work. SermonIndex's separate sermon-copying page is about sermons entrusted to that site, not this module.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sigill.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/gill/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "tsk",
+      "title": "Treasury of Scripture Knowledge",
+      "short": "TSK",
+      "type": "crossref",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire module TSK, DistributionLicense=Public Domain. Treasury of Scripture Knowledge, about 1880.",
+      "sourceUrl": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/TSK.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=TSK",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "mhcc",
+      "title": "Matthew Henry's Concise Commentary",
+      "short": "Concise",
+      "author": "Matthew Henry",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire mhcc.conf: DistributionLicense=Public Domain, OSIS zCom version 2.0. Matthew Henry died in 1714; the concise commentary is the long-public abridgement. TextSource names a CCEL cache. The module's About says the Moody Press printing it was checked against displayed no copyright. CCEL's own site files were not downloaded.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/MHCC.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=MHCC",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "clarke",
+      "title": "Adam Clarke's Commentary",
+      "short": "Clarke",
+      "author": "Adam Clarke",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire clarke.conf: DistributionLicense=Public Domain, OSIS version 2.0. Adam Clarke (1760/62\u20131832) finished the commentary in the early nineteenth century. TextSource is the Wikisource transcription, not a CCEL download.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/Clarke.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Clarke",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "calvin",
+      "title": "Calvin's Commentaries",
+      "short": "Calvin",
+      "author": "John Calvin",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire calvincommentaries.conf: DistributionLicense=Public Domain, OSIS version 1.1, Feature=NoParagraphs. John Calvin died in 1564. TextSource names ccel.org; those site files were not downloaded. The module has no Judges through Esther, Job, Proverbs, Ecclesiastes, Song of Solomon, or Revelation.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/CalvinCommentaries.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=CalvinCommentaries",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "kd",
+      "title": "Keil and Delitzsch on the Old Testament",
+      "short": "Keil",
+      "author": "C. F. Keil and Franz Delitzsch",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire kd.conf: DistributionLicense=Public Domain, OSIS zCom4 version 2.0, Feature=NoParagraphs. Keil (1807\u20131888) and Delitzsch (1813\u20131890) published the commentary in 1864. TextSource is https://en.wikisource.org/wiki/Biblical_commentary_the_Old_Testament. Old Testament only. There is no separate public-domain CrossWire file besides this Wikisource-based module.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/KD.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=KD",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "wesley",
+      "title": "Wesley's Explanatory Notes",
+      "short": "Wesley",
+      "author": "John Wesley",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire wesley.conf: DistributionLicense=Public Domain, ThML zCom version 1.1, a released module rather than a beta. John Wesley (1703\u20131791) published the notes in the eighteenth century. The SermonIndex siwesley module is the same work and was not imported twice.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/Wesley.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Wesley",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "geneva",
+      "title": "1599 Geneva Bible Notes",
+      "short": "Geneva",
+      "author": "Geneva Bible translators",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex sigeneva.conf: DistributionLicense=Public Domain. About identifies the 1599 Geneva Bible marginal notes, from the 1560 Bible revised in 1599, including notes associated with Theodore Beza. This is not a modern-spelling copyrighted edition. CrossWire's geneva.conf was not used because that file has no DistributionLicense field.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sigeneva.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/genevabn/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "scofield",
+      "title": "Scofield Reference Notes (1917)",
+      "short": "Scofield",
+      "author": "C. I. Scofield",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire scofield.conf: DistributionLicense=Public Domain, description \u201cScofield Reference Notes, 1917 Edition\u201d, OSIS version 2.1, Feature=NoParagraphs. TextSource is the Wikisource transcription of the 1917 notes. The 1967 New Scofield Bible is not this module and is not imported. The 1917 publication is in the public domain in the United States.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/Scofield.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Scofield",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "pnt",
+      "title": "The People's New Testament",
+      "short": "People's",
+      "author": "B. W. Johnson",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire pnt.conf: DistributionLicense=Public Domain, ThML. About names B. W. Johnson's The People's New Testament (1891). New Testament only.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/PNT.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=PNT",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "tdavid",
+      "title": "The Treasury of David",
+      "short": "Treasury",
+      "author": "Charles Spurgeon",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "CrossWire tdavid.conf: DistributionLicense=Public Domain, OSIS zCom4 version 2.1, Feature=NoParagraphs. Spurgeon's Treasury of David was published in volumes through 1885; the conf says it is in the public domain. Psalms only.",
+      "sourceUrl": "https://ftp.crosswire.org/ftpmirror/pub/sword/packages/rawzip/TDavid.zip",
+      "proofUrl": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=TDavid",
+      "downloadedAt": "2026-11-14",
+      "publisher": "CrossWire Bible Society"
+    },
+    {
+      "id": "poole",
+      "title": "Matthew Poole's Commentary",
+      "short": "Poole",
+      "author": "Matthew Poole",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex sipoole.conf: DistributionLicense=Public Domain. About names Matthew Poole (1624\u20131679) and the Annotations on the Holy Bible. The conf's own license line is the proof; SermonIndex's site badge is not.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sipoole.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/poole/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "trapp",
+      "title": "Trapp's Commentary",
+      "short": "Trapp",
+      "author": "John Trapp",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex sitrapp.conf: DistributionLicense=Public Domain. About names John Trapp (1601\u20131669) and his Complete Commentary.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sitrapp.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/trapp/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "lange",
+      "title": "Lange's Commentary",
+      "short": "Lange",
+      "author": "Johann Peter Lange",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex silange.conf: DistributionLicense=Public Domain. About names Johann Peter Lange (1802\u20131884) and the English edition prepared with Philip Schaff.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/silange.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/lange/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "ellicott",
+      "title": "Ellicott's Commentary for English Readers",
+      "short": "Ellicott",
+      "author": "Charles John Ellicott",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex siellicott.conf: DistributionLicense=Public Domain. About names Charles John Ellicott (1819\u20131905) and the Commentary for English Readers.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/siellicott.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/ellicott/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "pulpit",
+      "title": "The Pulpit Commentary",
+      "short": "Pulpit",
+      "author": "H. D. M. Spence and Joseph S. Exell",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex sipulpit.conf: DistributionLicense=Public Domain. About dates the Pulpit Commentary to 1880\u20131919, edited by H. D. M. Spence-Jones and Joseph S. Exell. Those volumes were published before 1929. Notes are often keyed to a passage rather than a single verse.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sipulpit.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/pulpit-commentary/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "vincent",
+      "title": "Vincent's Word Studies",
+      "short": "Vincent",
+      "author": "Marvin R. Vincent",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex sivincentws.conf: DistributionLicense=Public Domain. About names Marvin R. Vincent (1834\u20131922) and Word Studies in the New Testament, published 1887\u20131900. New Testament word studies, not a verse-by-verse exposition of the whole Bible.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sivincentws.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/vincentws/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "bengel",
+      "title": "Bengel's Gnomon of the New Testament",
+      "short": "Bengel",
+      "author": "Johann Albrecht Bengel",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex signomon.conf: DistributionLicense=Public Domain. About names Johann Albrecht Bengel (1687\u20131752) and the Gnomon Novi Testamenti (1742). New Testament only.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/signomon.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/gnomon/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "expositor",
+      "title": "The Expositor's Bible",
+      "short": "Expositor",
+      "author": "W. Robertson Nicoll",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex sieb.conf: DistributionLicense=Public Domain. About identifies The Expositor's Bible edited by W. Robertson Nicoll, 49 volumes published 1887\u20131896. This is not the modern Expositor's Bible Commentary.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sieb.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/eb/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "cambridge",
+      "title": "Cambridge Bible for Schools and Colleges",
+      "short": "Cambridge",
+      "author": "Cambridge University Press",
+      "type": "commentary",
+      "license": "Public Domain",
+      "licenseNotes": "SermonIndex sicambridge.conf: DistributionLicense=Public Domain. About dates The Cambridge Bible for Schools and Colleges from 1882 under J. J. S. Perowne. This is that school series, not a later Cambridge commentary.",
+      "sourceUrl": "https://www.sermonindex.net/modules/sword/sicambridge.zip",
+      "proofUrl": "https://www.sermonindex.net/commentary/cambridge/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "SermonIndex"
+    },
+    {
+      "id": "tosn",
+      "title": "Tyndale Open Study Notes",
+      "short": "Tyndale Open Study Notes",
+      "author": "Tyndale House Publishers",
+      "type": "commentary",
+      "license": "CC BY-SA 4.0",
+      "licenseNotes": "Adapted from Tyndale Open Study Notes. The original work by Tyndale House Publishers is available for free at http://www.tyndaleopenresources.com. OpenLogia converted the XML notes into chapter files. Book summaries are kept; the separate profile and theme articles are not included. License: https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip",
+      "proofUrl": "https://tyndaleopenresources.com/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Tyndale House Publishers"
+    },
+    {
+      "id": "utn",
+      "title": "unfoldingWord Translation Notes",
+      "short": "unfoldingWord Translation Notes",
+      "author": "unfoldingWord",
+      "type": "commentary",
+      "license": "CC BY-SA 4.0",
+      "licenseNotes": "The original work by unfoldingWord is available from unfoldingword.org/utn OpenLogia grouped the notes by verse and renders their Markdown. The unfoldingWord trademark logo is not used. License: https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://git.door43.org/unfoldingWord/en_tn",
+      "proofUrl": "https://git.door43.org/unfoldingWord/en_tn/src/branch/master/LICENSE.md",
+      "downloadedAt": "2026-11-14",
+      "publisher": "unfoldingWord"
+    },
+    {
+      "id": "tobd",
+      "title": "Tyndale Open Bible Dictionary",
+      "short": "Dictionary",
+      "type": "reference",
+      "license": "CC BY-SA 4.0",
+      "licenseNotes": "Adapted from Tyndale Open Bible Dictionary. The original work by Tyndale House Publishers is available for free at http://www.tyndaleopenresources.com. OpenLogia converted the articles into text. Maps, pictures, and chart artwork are not included. License: https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/TyndaleOpenBibleDictionary.zip",
+      "proofUrl": "https://tyndaleopenresources.com/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Tyndale House Publishers"
+    },
+    {
+      "id": "openbible",
+      "title": "OpenBible.info cross references",
+      "short": "OpenBible",
+      "type": "crossref",
+      "license": "CC BY 4.0",
+      "licenseNotes": "The cross-reference lab page licenses its content under Creative Commons Attribution 4.0 unless otherwise indicated. Only verse-to-verse links and vote counts are stored. Scripture quotations are not copied from that site.",
+      "sourceUrl": "https://a.openbible.info/data/cross-references.zip",
+      "proofUrl": "https://www.openbible.info/labs/cross-references/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "OpenBible.info"
+    },
+    {
+      "id": "openbible-geo",
+      "title": "OpenBible.info Bible Geocoding",
+      "short": "Places",
+      "type": "reference",
+      "license": "CC BY 4.0",
+      "licenseNotes": "Place names, representative coordinates, and the verses that mention them. OpenStreetMap geometries are not included. Thumbnail images are checked one by one and only public-domain, CC0, and CC BY files are kept.",
+      "sourceUrl": "https://raw.githubusercontent.com/openbibleinfo/Bible-Geocoding-Data/main/data/ancient.jsonl",
+      "proofUrl": "https://www.openbible.info/geo/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "OpenBible.info"
+    },
+    {
+      "id": "natural-earth",
+      "title": "Natural Earth land, 1:110m",
+      "short": "Land",
+      "type": "reference",
+      "license": "Public domain",
+      "licenseNotes": "Land, coastline, rivers, and lakes clipped to the Mediterranean and Near East.",
+      "sourceUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson",
+      "proofUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Natural Earth"
+    },
+    {
+      "id": "natural-earth-sr",
+      "title": "Natural Earth shaded relief",
+      "short": "Shaded relief",
+      "type": "reference",
+      "license": "Public domain",
+      "licenseNotes": "SR_HR grayscale hillshade, cropped to 6.5\u00b0W\u201356.5\u00b0E and 14.6\u00b0N\u201350.5\u00b0N (3783\u00d72158) and encoded as one WebP. Drawn under the land. No tiles.",
+      "sourceUrl": "https://naciscdn.org/naturalearth/10m/raster/SR_HR.zip",
+      "proofUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Natural Earth"
+    },
+    {
+      "id": "natural-earth-hyp",
+      "title": "Natural Earth terrain and sea depth",
+      "short": "Terrain",
+      "type": "reference",
+      "license": "Public domain",
+      "licenseNotes": "HYP_HR_SR_OB_DR colored elevation, shaded relief, and ocean-bottom depth, cropped to the same window and encoded as one WebP.",
+      "sourceUrl": "https://naciscdn.org/naturalearth/10m/raster/HYP_HR_SR_OB_DR.zip",
+      "proofUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Natural Earth"
+    },
+    {
+      "id": "map-photos",
+      "title": "Place photographs",
+      "short": "Photos",
+      "type": "reference",
+      "license": "Public domain, CC0, and CC BY",
+      "licenseNotes": "Photographs of places named in the Bible. Each file was kept only when its Wikimedia Commons record says public domain, CC0, or CC BY. The per-file source, license, proof, attribution, and download date are in catalog/map-media.json.",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "proofUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Wikimedia Commons"
+    },
+    {
+      "id": "map-historical-maps",
+      "title": "Historical Bible atlas scans",
+      "short": "Historical Maps",
+      "type": "reference",
+      "license": "Public domain, CC0, and CC BY",
+      "licenseNotes": "Map plates from Smith's Bible dictionary scans and Rand McNally Bible atlas scans. Each file was checked on Commons. Road maps and other non-Bible plates are not included. The per-file source, license, proof, attribution, and download date are in catalog/map-media.json.",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "proofUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Wikimedia Commons"
+    },
+    {
+      "id": "map-illustrations",
+      "title": "Place illustrations",
+      "short": "Illustrations",
+      "type": "reference",
+      "license": "Public domain, CC0, and CC BY",
+      "licenseNotes": "Drawings, engravings, and other non-photographic place pictures. Each file was kept only when its Wikimedia Commons record says public domain, CC0, or CC BY. The per-file source, license, proof, attribution, and download date are in catalog/map-media.json.",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "proofUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "downloadedAt": "2026-11-14",
+      "publisher": "Wikimedia Commons"
+    },
+    {
+      "id": "pursuit-of-god",
+      "title": "The Pursuit of God",
+      "short": "The Pursuit of God",
+      "author": "A. W. Tozer",
+      "type": "book",
+      "categories": [
+        "devotional",
+        "theology",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/25141/pg25141.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/25141",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "orthodoxy",
+      "title": "Orthodoxy",
+      "short": "Orthodoxy",
+      "author": "G. K. Chesterton",
+      "type": "book",
+      "categories": [
+        "apologetics",
+        "classics",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/16769/pg16769.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/16769",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "everlasting-man",
+      "title": "The Everlasting Man",
+      "short": "The Everlasting Man",
+      "author": "G. K. Chesterton",
+      "type": "book",
+      "categories": [
+        "apologetics",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/65688/pg65688.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/65688",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "heretics",
+      "title": "Heretics",
+      "short": "Heretics",
+      "author": "G. K. Chesterton",
+      "type": "book",
+      "categories": [
+        "apologetics",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/470/pg470.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/470",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "spirits-in-bondage",
+      "title": "Spirits in Bondage",
+      "short": "Spirits in Bondage",
+      "author": "C. S. Lewis",
+      "type": "book",
+      "categories": [
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/2003/pg2003.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/2003",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "dymer",
+      "title": "Dymer",
+      "short": "Dymer",
+      "author": "C. S. Lewis",
+      "type": "book",
+      "categories": [
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/70106/pg70106.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/70106",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "confessions",
+      "title": "The Confessions of St. Augustine",
+      "short": "The Confessions of St. Augustine",
+      "author": "Augustine",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "theology",
+        "biography",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/3296/pg3296.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/3296",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "city-of-god-1",
+      "title": "The City of God, Volume I",
+      "short": "The City of God, Volume I",
+      "author": "Augustine",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "apologetics",
+        "theology",
+        "history",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/45304/pg45304.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/45304",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "city-of-god-2",
+      "title": "The City of God, Volume II",
+      "short": "The City of God, Volume II",
+      "author": "Augustine",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "apologetics",
+        "theology",
+        "history",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/45305/pg45305.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/45305",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "imitation",
+      "title": "The Imitation of Christ",
+      "short": "The Imitation of Christ",
+      "author": "Thomas a Kempis",
+      "type": "book",
+      "categories": [
+        "devotional",
+        "fathers",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/1653/pg1653.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/1653",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "pilgrim",
+      "title": "The Pilgrim's Progress",
+      "short": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "type": "book",
+      "categories": [
+        "devotional",
+        "classics",
+        "puritans",
+        "biography"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/131/pg131.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/131",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "grace-abounding",
+      "title": "Grace Abounding to the Chief of Sinners",
+      "short": "Grace Abounding to the Chief of Sinners",
+      "author": "John Bunyan",
+      "type": "book",
+      "categories": [
+        "biography",
+        "puritans",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/654/pg654.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/654",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "holy-war",
+      "title": "The Holy War",
+      "short": "The Holy War",
+      "author": "John Bunyan",
+      "type": "book",
+      "categories": [
+        "classics",
+        "puritans",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/395/pg395.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/395",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "edwards-sermons",
+      "title": "Selected Sermons of Jonathan Edwards",
+      "short": "Selected Sermons of Jonathan Edwards",
+      "author": "Jonathan Edwards",
+      "type": "book",
+      "categories": [
+        "sermons",
+        "puritans",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/34632/pg34632.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/34632",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "analogy",
+      "title": "The Analogy of Religion",
+      "short": "The Analogy of Religion",
+      "author": "Joseph Butler",
+      "type": "book",
+      "categories": [
+        "apologetics",
+        "theology",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/53346/pg53346.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/53346",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "pensees",
+      "title": "Pascal's Pens\u00e9es",
+      "short": "Pascal's Pens\u00e9es",
+      "author": "Blaise Pascal",
+      "type": "book",
+      "categories": [
+        "apologetics",
+        "classics",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/18269/pg18269.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/18269",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "evangelists",
+      "title": "Testimony of the Four Evangelists",
+      "short": "Testimony of the Four Evangelists",
+      "author": "Simon Greenleaf",
+      "type": "book",
+      "categories": [
+        "apologetics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/34989/pg34989.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/34989",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "purpose-in-prayer",
+      "title": "Purpose in Prayer",
+      "short": "Purpose in Prayer",
+      "author": "E. M. Bounds",
+      "type": "book",
+      "categories": [
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/66112/pg66112.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/66112",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "power-through-prayer",
+      "title": "Power Through Prayer",
+      "short": "Power Through Prayer",
+      "author": "E. M. Bounds",
+      "type": "book",
+      "categories": [
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/65115/pg65115.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/65115",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "institutes-1",
+      "title": "Institutes of the Christian Religion, Volume I",
+      "short": "Institutes of the Christian Religion, Volume I",
+      "author": "John Calvin",
+      "type": "book",
+      "categories": [
+        "theology",
+        "puritans",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/45001/pg45001.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/45001",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "institutes-2",
+      "title": "Institutes of the Christian Religion, Volume II",
+      "short": "Institutes of the Christian Religion, Volume II",
+      "author": "John Calvin",
+      "type": "book",
+      "categories": [
+        "theology",
+        "puritans",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/64392/pg64392.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/64392",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "luther-galatians",
+      "title": "Commentary on Galatians",
+      "short": "Commentary on Galatians",
+      "author": "Martin Luther",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "sermons"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/1549/pg1549.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/1549",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "ninety-five-theses",
+      "title": "The Ninety-five Theses",
+      "short": "The Ninety-five Theses",
+      "author": "Martin Luther",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "history"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/274/pg274.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/274",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "christian-liberty",
+      "title": "Concerning Christian Liberty",
+      "short": "Concerning Christian Liberty",
+      "author": "Martin Luther",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/1911/pg1911.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/1911",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "luther-table-talk",
+      "title": "Selections from the Table Talk of Martin Luther",
+      "short": "Selections from the Table Talk of Martin Luther",
+      "author": "Martin Luther",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "biography"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/9841/pg9841.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/9841",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "small-catechism",
+      "title": "Luther's Small Catechism",
+      "short": "Luther's Small Catechism",
+      "author": "Martin Luther",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "councils",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/1670/pg1670.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/1670",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "knox-reformation",
+      "title": "The History of the Reformation of Religion in Scotland",
+      "short": "The History of the Reformation of Religion in Scotland",
+      "author": "John Knox",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "history"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/48250/pg48250.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/48250",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "baxter-ethics",
+      "title": "A Christian Directory: Christian Ethics",
+      "short": "A Christian Directory: Christian Ethics",
+      "author": "Richard Baxter",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/41633/pg41633.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/41633",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "saints-rest",
+      "title": "The Saint's Everlasting Rest",
+      "short": "The Saint's Everlasting Rest",
+      "author": "Richard Baxter",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/58135/pg58135.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/58135",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "whitefield-1",
+      "title": "The Works of George Whitefield, Volume 1",
+      "short": "The Works of George Whitefield, Volume 1",
+      "author": "George Whitefield",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "sermons"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/68976/pg68976.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/68976",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "brainerd",
+      "title": "The Life of Rev. David Brainerd",
+      "short": "The Life of Rev. David Brainerd",
+      "author": "Jonathan Edwards",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "biography"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/65066/pg65066.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/65066",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "wicket-gate",
+      "title": "Around the Wicket Gate",
+      "short": "Around the Wicket Gate",
+      "author": "Charles Spurgeon",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional",
+        "sermons"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/60669/pg60669.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/60669",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "gleanings",
+      "title": "Gleanings among the Sheaves",
+      "short": "Gleanings among the Sheaves",
+      "author": "Charles Spurgeon",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/42657/pg42657.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/42657",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "treasury-david-1",
+      "title": "The Treasury of David, Volume 1",
+      "short": "The Treasury of David, Volume 1",
+      "author": "Charles Spurgeon",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "sermons"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/79723/pg79723.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/79723",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "practical-religion",
+      "title": "Practical Religion",
+      "short": "Practical Religion",
+      "author": "J. C. Ryle",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/38162/pg38162.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/38162",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "way-to-god",
+      "title": "The Way to God and How to Find It",
+      "short": "The Way to God and How to Find It",
+      "author": "D. L. Moody",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional",
+        "sermons"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/30449/pg30449.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/30449",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "holy-in-christ",
+      "title": "Holy in Christ",
+      "short": "Holy in Christ",
+      "author": "Andrew Murray",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/26990/pg26990.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/26990",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "humility",
+      "title": "Humility: The Beauty of Holiness",
+      "short": "Humility: The Beauty of Holiness",
+      "author": "Andrew Murray",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/57121/pg57121.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/57121",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "augsburg",
+      "title": "The Augsburg Confession",
+      "short": "The Augsburg Confession",
+      "author": "Philipp Melanchthon",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "councils",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/275/pg275.txt",
+      "proofUrl": "https://www.gutenberg.org/ebooks/275",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Project Gutenberg"
+    },
+    {
+      "id": "my-utmost",
+      "title": "My Utmost for His Highest",
+      "short": "My Utmost",
+      "author": "Oswald Chambers",
+      "type": "book",
+      "categories": [
+        "devotional"
+      ],
+      "shape": "daily",
+      "license": "Public Domain (US)",
+      "licenseNotes": "First published in 1927 by Simpkin & Marshall. A 1927 publication entered the US public domain on 1 January 2023, at the end of the 95-year term. The file is a retyped transcription of the classic wording (Moffatt and Revised Version quotations, not the 1992 updated edition). The 1935 Dodd, Mead renewal covers only new matter added in that edition, not this 1927 text.",
+      "sourceUrl": "https://ia803209.us.archive.org/29/items/my-utmost-for-his-highest-chambers/My%20Utmost%20for%20His%20Highest%20-%20Chambers.pdf",
+      "proofUrl": "https://archive.org/details/my-utmost-for-his-highest-chambers https://www.oswaldchambers.co.uk/biography/my-utmost/",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "bondage-of-the-will",
+      "title": "The Bondage of the Will",
+      "short": "The Bondage of the Will",
+      "author": "Martin Luther",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "Henry Cole's English translation, London, 1823. The Internet Archive marks the scan not in copyright.",
+      "sourceUrl": "https://archive.org/download/bondagewill00colegoog/bondagewill00colegoog_djvu.txt",
+      "proofUrl": "https://archive.org/details/bondagewill00colegoog",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "large-catechism",
+      "title": "Luther's Large Catechism",
+      "short": "Luther's Large Catechism",
+      "author": "Martin Luther",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "councils",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "Bente and Dau translation from the 1921 Concordia Triglotta. A 1921 US publication is in the public domain. The Internet Archive file is marked not in copyright.",
+      "sourceUrl": "https://archive.org/download/martinlutherslar01722gut/lrgct10.txt",
+      "proofUrl": "https://archive.org/details/martinlutherslar01722gut",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "holiness",
+      "title": "Holiness",
+      "short": "Holiness",
+      "author": "J. C. Ryle",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "Ryle's Holiness was published in 1877 and enlarged in 1879. The CCEL file's imprint says 'THIS EDITION 1952' (James Clarke reprint) and contains Ryle's own introduction, with no later editor's preface. The literary text is the public-domain book. CCEL plain text of a public-domain book may be republished; the XML markup is not used. Proof: https://www.ccel.org/about/copyright.html",
+      "sourceUrl": "https://www.ccel.org/ccel/r/ryle/holiness/cache/holiness.txt",
+      "proofUrl": "https://www.ccel.org/ccel/ryle/holiness.html",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "absolute-surrender",
+      "title": "Absolute Surrender",
+      "short": "Absolute Surrender",
+      "author": "Andrew Murray",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "First published in 1895. CCEL marks the plain text Public Domain and allows that text to be republished. The XML markup is not used.",
+      "sourceUrl": "https://www.ccel.org/ccel/m/murray/surrender/cache/surrender.txt",
+      "proofUrl": "https://www.ccel.org/ccel/murray/surrender.html",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "seven-councils",
+      "title": "The Seven Ecumenical Councils",
+      "short": "The Seven Ecumenical Councils",
+      "author": "Philip Schaff",
+      "type": "book",
+      "categories": [
+        "councils",
+        "fathers",
+        "history"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "Nicene and Post-Nicene Fathers, Second Series, volume 14, edited by Philip Schaff. CCEL marks the plain text Public Domain. The XML markup is not used.",
+      "sourceUrl": "https://www.ccel.org/ccel/s/schaff/npnf214/cache/npnf214.txt",
+      "proofUrl": "https://www.ccel.org/ccel/schaff/npnf214.html",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "creeds-3",
+      "title": "The Creeds of Christendom, Volume III",
+      "short": "The Creeds of Christendom, Volume III",
+      "author": "Philip Schaff",
+      "type": "book",
+      "categories": [
+        "councils",
+        "theology",
+        "history"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "Schaff's 1889 volume of the evangelical creeds, including the Augsburg Confession, the Thirty-nine Articles, the Belgic Confession, the Heidelberg Catechism, the Canons of Dort, and the Westminster Confession and Catechisms. CCEL marks the plain text Public Domain.",
+      "sourceUrl": "https://www.ccel.org/ccel/s/schaff/creeds3/cache/creeds3.txt",
+      "proofUrl": "https://www.ccel.org/ccel/schaff/creeds3.html",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "paley-natural",
+      "title": "Natural Theology",
+      "short": "Natural Theology",
+      "author": "William Paley",
+      "type": "book",
+      "categories": [
+        "apologetics",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://archive.org/download/naturaltheologyo0000pale_u9a3/naturaltheologyo0000pale_u9a3_djvu.txt",
+      "proofUrl": "https://archive.org/details/naturaltheologyo0000pale_u9a3",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "justin-apology",
+      "title": "The First Apology of Justin Martyr",
+      "short": "The First Apology of Justin Martyr",
+      "author": "Justin Martyr",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "apologetics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "1912 John Grant edition. A 1912 publication is in the US public domain.",
+      "sourceUrl": "https://archive.org/download/firstapologyofju0000john/firstapologyofju0000john_djvu.txt",
+      "proofUrl": "https://archive.org/details/firstapologyofju0000john",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "practice-of-the-presence",
+      "title": "The Practice of the Presence of God",
+      "short": "The Practice of the Presence of God",
+      "author": "Brother Lawrence",
+      "type": "book",
+      "categories": [
+        "devotional",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "1900 Judson Press edition of the seventeenth-century conversations and letters. Gutenberg eBook 5657 is a different, copyrighted file and is not used.",
+      "sourceUrl": "https://archive.org/download/practiceofpresen00lawr_1/practiceofpresen00lawr_1_djvu.txt",
+      "proofUrl": "https://archive.org/details/practiceofpresen00lawr_1",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "method-for-prayer",
+      "title": "A Method for Prayer",
+      "short": "A Method for Prayer",
+      "author": "Matthew Henry",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US)",
+      "licenseNotes": "1750 edition. The page images may have separate scan restrictions; only the OCR text of this public-domain book is hosted.",
+      "sourceUrl": "https://archive.org/download/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1750/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1750_djvu.txt",
+      "proofUrl": "https://archive.org/details/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1750",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "london-baptist-1689",
+      "title": "The 1689 Baptist Confession of Faith",
+      "short": "The 1689 Baptist Confession of Faith",
+      "author": "Particular Baptists",
+      "type": "book",
+      "categories": [
+        "councils",
+        "theology",
+        "puritans"
+      ],
+      "shape": "chapters",
+      "license": "Public domain",
+      "licenseNotes": "Wikisource categories this page PD-old. Wiki contributions are credited.",
+      "sourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=1689%20Baptist%20Confession%20of%20Faith&prop=wikitext&format=json",
+      "proofUrl": "https://en.wikisource.org/wiki/1689_Baptist_Confession_of_Faith",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Wikisource"
+    },
+    {
+      "id": "mortification",
+      "title": "Of the Mortification of Sin in Believers",
+      "short": "Of the Mortification of Sin in Believers",
+      "author": "John Owen",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "CC0 1.0",
+      "licenseNotes": "1668 edition. The Text Creation Partnership waived its rights in the keyed text under CC0. Page images are not hosted.",
+      "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A53715/master/A53715.xml",
+      "proofUrl": "https://quod.lib.umich.edu/e/eebo/A53715.0001.001",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Text Creation Partnership"
+    },
+    {
+      "id": "bruised-reed",
+      "title": "The Bruised Reed",
+      "short": "The Bruised Reed",
+      "author": "Richard Sibbes",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional",
+        "sermons"
+      ],
+      "shape": "chapters",
+      "license": "CC0 1.0",
+      "licenseNotes": "1630 edition. EEBO-TCP keyed text, CC0. Page images are not hosted.",
+      "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A12171/master/A12171.xml",
+      "proofUrl": "https://quod.lib.umich.edu/e/eebo/A12171.0001.001",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Text Creation Partnership"
+    },
+    {
+      "id": "precious-remedies",
+      "title": "Precious Remedies Against Satan's Devices",
+      "short": "Precious Remedies Against Satan's Devices",
+      "author": "Thomas Brooks",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "CC0 1.0",
+      "licenseNotes": "1658 edition. The EEBO-TCP Phase 2 file states a CC0 waiver for the keyed text. Page images are not hosted.",
+      "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A77614/master/A77614.xml",
+      "proofUrl": "https://quod.lib.umich.edu/e/eebo2/A77614.0001.001",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Text Creation Partnership"
+    },
+    {
+      "id": "watson-body",
+      "title": "A Body of Practical Divinity",
+      "short": "A Body of Practical Divinity",
+      "author": "Thomas Watson",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "sermons"
+      ],
+      "shape": "chapters",
+      "license": "CC0 1.0",
+      "licenseNotes": "1692 edition of Watson's sermons on the Westminster Shorter Catechism. EEBO-TCP keyed text, CC0. Page images are not hosted.",
+      "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A65285/master/A65285.xml",
+      "proofUrl": "https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/A65285",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Text Creation Partnership"
+    },
+    {
+      "id": "biblical-psychology",
+      "title": "Biblical Psychology",
+      "short": "Biblical Psychology",
+      "author": "Oswald Chambers",
+      "type": "book",
+      "categories": [
+        "theology",
+        "devotional"
+      ],
+      "shape": "chapters",
+      "license": "Public domain in the USA",
+      "licenseNotes": "The source file states that the text may be copied. Proof page records the edition.",
+      "sourceUrl": "https://archive.org/download/biblicalpsycholo00cham/biblicalpsycholo00cham_djvu.txt",
+      "proofUrl": "https://archive.org/details/biblicalpsycholo00cham",
+      "downloadedAt": "2026-11-15",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "crosswire-kjv",
+      "title": "CrossWire KJV module",
+      "reason": "DistributionLicense is GPL, and the module adds Strong's numbers and morphology. Its About text also discusses Crown rights in the base text. The plain public-domain King James text is taken from eBible.org instead."
+    },
+    {
+      "id": "apocrypha",
+      "title": "Deuterocanon bundled with some eBible archives",
+      "reason": "Stage 1 ships the 66-book Protestant canon. Apocrypha files inside the KJV and WEB zip archives are not imported."
+    },
+    {
+      "id": "barnes-crosswire",
+      "title": "CrossWire Barnes New Testament module",
+      "reason": "Replaced by SermonIndex sibarnes, whose conf says DistributionLicense=Public Domain and whose files include both Testaments. One Barnes resource is hosted."
+    },
+    {
+      "id": "geneva-crosswire",
+      "title": "CrossWire Geneva Bible Translation Notes",
+      "reason": "mods.d/geneva.conf has no DistributionLicense field, so it is not hosted. The 1599 notes come from SermonIndex sigeneva.conf, which says DistributionLicense=Public Domain."
+    },
+    {
+      "id": "geneva1599-text",
+      "title": "CrossWire Geneva1599 Bible text",
+      "reason": "That module is the Bible text (ModDrv=zText), not the notes. The 1599 Geneva Bible text is already imported from eBible.org."
+    },
+    {
+      "id": "siwesley",
+      "title": "SermonIndex Wesley module",
+      "reason": "The same eighteenth-century notes are already imported from CrossWire wesley.conf, DistributionLicense=Public Domain, version 1.1, which is a released module rather than a beta."
+    },
+    {
+      "id": "scofield-1967",
+      "title": "New Scofield Reference Bible (1967)",
+      "reason": "Only the 1917 Scofield notes are imported. The 1967 edition is a later copyrighted revision."
+    },
+    {
+      "id": "expositor-modern",
+      "title": "The Expositor's Bible Commentary (modern)",
+      "reason": "The hosted set is W. Robertson Nicoll's 1887\u20131896 Expositor's Bible. The modern Expositor's Bible Commentary is not public domain."
+    },
+    {
+      "id": "courson",
+      "title": "Jon Courson commentary",
+      "reason": "Modern copyrighted work. SermonIndex's public-domain badge is not accepted for it."
+    },
+    {
+      "id": "guzik",
+      "title": "David Guzik commentary",
+      "reason": "Modern copyrighted work. Not hosted."
+    },
+    {
+      "id": "constable",
+      "title": "Thomas Constable notes",
+      "reason": "Modern copyrighted work. Not hosted."
+    },
+    {
+      "id": "chuck-smith",
+      "title": "Chuck Smith commentary",
+      "reason": "Modern copyrighted work. Not hosted."
+    },
+    {
+      "id": "bbc",
+      "title": "Bob Utley Bible lessons (BBC)",
+      "reason": "Modern teaching notes. Not hosted."
+    },
+    {
+      "id": "lenski",
+      "title": "R. C. H. Lenski commentary",
+      "reason": "Twentieth-century copyrighted commentary. Not hosted."
+    },
+    {
+      "id": "coffman",
+      "title": "James Burton Coffman commentary",
+      "reason": "Twentieth-century copyrighted commentary. Not hosted."
+    },
+    {
+      "id": "robertson-wordpictures",
+      "title": "Robertson's Word Pictures",
+      "reason": "A. T. Robertson's full Word Pictures is not this import. Vincent's 1887\u20131900 word studies are the word-study module that is hosted."
+    },
+    {
+      "id": "net-notes",
+      "title": "NET Bible notes",
+      "reason": "The NET notes are not public domain and are not imported with the NET text."
+    },
+    {
+      "id": "ccel-direct",
+      "title": "CCEL website editions of Henry, JFB, and Gill",
+      "reason": "CCEL's terms for its electronic editions are easy to confuse with the public-domain status of the underlying books. Those website files are not downloaded. Commentaries come from SWORD modules whose configuration says DistributionLicense=Public Domain."
+    },
+    {
+      "id": "blb",
+      "title": "Berean Literal Bible",
+      "reason": "https://berean.bible/terms.htm dedicates the Berean texts to the public domain, but eBible.org has no engblb archive and no separate official USFM download for the Literal Bible was found. The Majority Standard Bible (engmsb) is imported instead."
+    },
+    {
+      "id": "bishops",
+      "title": "Bishops' Bible",
+      "reason": "No eBible.org project or copyright page was found for the Bishops' Bible (tried engbish, engbishops, and eng-bishops). Skipped rather than use an unverified copy."
+    },
+    {
+      "id": "weymouth",
+      "title": "Weymouth New Testament",
+      "reason": "No eBible.org project or copyright page was found for Weymouth (tried engwey, engweymouth, and eng-weymouth). Skipped rather than use an unverified copy."
+    },
+    {
+      "id": "rotherham",
+      "title": "Rotherham Emphasized Bible",
+      "reason": "No eBible.org project or copyright page was found for Rotherham (tried engroth and eng-rotherham). Skipped rather than use an unverified copy."
+    },
+    {
+      "id": "leb",
+      "title": "Lexham English Bible",
+      "reason": "Faithlife's published terms allow giving the LEB away and require attribution for electronic use, including links to lexhamenglishbible.com and logos.com. They do not publish a redistributable USFM (or other source file) for a third party to host. Without that file it is not imported into data/."
+    },
+    {
+      "id": "openbible-osm",
+      "title": "OpenStreetMap geometries inside the OpenBible geocoding data",
+      "reason": "Those shapes are credited to OpenStreetMap and licensed ODbL 1.0, which is not one of the licenses used for hosted maps. Only the CC BY place points are kept."
+    },
+    {
+      "id": "unfoldingword-maps",
+      "title": "unfoldingWord Bible map artwork",
+      "reason": "The translation notes are already hosted under CC BY-SA 4.0. A redistributable map-image license was not confirmed, so the pictures are not hosted."
+    },
+    {
+      "id": "tyndale-maps",
+      "title": "Tyndale Open Resources map artwork",
+      "reason": "The study notes and dictionary text are hosted under CC BY-SA 4.0. Their change notes omit maps and pictures, and the image license was not confirmed separately."
+    },
+    {
+      "id": "stepbible-places",
+      "title": "STEPBible place data",
+      "reason": "STEPBible data is CC BY 4.0. It was not imported because the OpenBible geocoding set already supplies the verse-to-place index."
+    },
+    {
+      "id": "map-media-skip-cc-by-sa",
+      "title": "Map media skipped: CC BY-SA",
+      "reason": "632 files. CC BY-SA. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-not-a-bible-atlas-plate",
+      "title": "Map media skipped: Not a Bible atlas plate",
+      "reason": "183 files. Not a Bible atlas plate. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-unclear-no-known-copyright-restrictions-is-not-a-public-doma",
+      "title": "Map media skipped: Unclear: no known copyright restrictions is not a public-domain, CC0, or CC BY grant",
+      "reason": "92 files. Unclear: no known copyright restrictions is not a public-domain, CC0, or CC BY grant. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-unclear-license",
+      "title": "Map media skipped: Unclear license",
+      "reason": "27 files. Unclear license. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-file-format-is-not-a-photograph-or-scan-the-reader-can-show",
+      "title": "Map media skipped: File format is not a photograph or scan the reader can show",
+      "reason": "18 files. File format is not a photograph or scan the reader can show. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-no-identifiable-place",
+      "title": "Map media skipped: No identifiable place",
+      "reason": "17 files. No identifiable place. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-not-a-map-photograph-or-illustration",
+      "title": "Map media skipped: Not a map, photograph, or illustration",
+      "reason": "5 files. Not a map, photograph, or illustration. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-copyrighted",
+      "title": "Map media skipped: Copyrighted",
+      "reason": "2 files. Copyrighted. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "map-media-skip-gfdl-is-not-public-domain-cc0-or-cc-by",
+      "title": "Map media skipped: GFDL is not public domain, CC0, or CC BY",
+      "reason": "1 file. GFDL is not public domain, CC0, or CC BY. The file names are in catalog/map-media.json."
+    },
+    {
+      "id": "book-mere-christianity",
+      "title": "Mere Christianity",
+      "reason": "C. S. Lewis, 1952. Not public domain in the United States."
+    },
+    {
+      "id": "book-screwtape",
+      "title": "The Screwtape Letters",
+      "reason": "C. S. Lewis, 1942. Not public domain in the United States."
+    },
+    {
+      "id": "book-divine-conquest",
+      "title": "The Divine Conquest",
+      "reason": "A. W. Tozer, 1950. No Project Gutenberg public-domain edition, and a 1950 US publication is not clearly renewed-or-not. Not hosted."
+    },
+    {
+      "id": "book-practice-gutenberg-5657",
+      "title": "The Practice of the Presence of God (Gutenberg 5657)",
+      "reason": "Gutenberg eBook 5657 is marked COPYRIGHTED and is not hosted. The 1900 Judson Press edition is hosted instead."
+    },
+    {
+      "id": "book-chaos-of-cults",
+      "title": "The Chaos of Cults",
+      "reason": "Jan Karel van Baalen, 1938. No clear US public-domain proof. Not hosted."
+    },
+    {
+      "id": "book-morning-evening",
+      "title": "Morning and Evening",
+      "reason": "No clean US public-domain Gutenberg edition of Spurgeon's Morning and Evening was found."
+    },
+    {
+      "id": "book-on-the-incarnation",
+      "title": "On the Incarnation",
+      "reason": "CCEL's incarnation.txt is an unnamed modern English translation addressed to Macarius, not a verified nineteenth-century NPNF text, so it was not hosted even though CCEL labels the file public domain."
+    },
+    {
+      "id": "book-schaff-history",
+      "title": "History of the Christian Church",
+      "reason": "No verified public-domain file of Schaff's history was located in this pass."
+    },
+    {
+      "id": "book-abide-in-christ",
+      "title": "Abide in Christ",
+      "reason": "No Project Gutenberg text of Andrew Murray's Abide in Christ was found."
+    },
+    {
+      "id": "book-wesley-sermons",
+      "title": "Wesley's sermons",
+      "reason": "No clean Gutenberg collection of John Wesley's sermons was matched."
+    },
+    {
+      "id": "book-tyndale-obedience",
+      "title": "The Obedience of a Christian Man",
+      "reason": "No pre-1929 English file of Tyndale's Obedience was verified. A 2000 Penguin edition is copyrighted, and an undated Internet Archive upload was not a historical edition."
+    },
+    {
+      "id": "book-zwingli",
+      "title": "Huldrych Zwingli",
+      "reason": "The 1972 University of Pennsylvania Press Selected Works is copyrighted. The Internet Archive item SelectedWorksOfHuldrichZwingli has no date, no rights statement, and no text file."
+    },
+    {
+      "id": "book-owen-communion",
+      "title": "Communion with God",
+      "reason": "John Owen's Mortification of Sin is hosted (EEBO-TCP A53715, CC0). Communion with God was not matched to a verified TCP identifier."
+    },
+    {
+      "id": "book-watson-cordial",
+      "title": "The Divine Cordial",
+      "reason": "Thomas Watson's Body of Practical Divinity is hosted (EEBO-TCP A65285, CC0). The Divine Cordial was not matched to a verified TCP identifier."
+    },
+    {
+      "id": "book-john-flavel",
+      "title": "John Flavel",
+      "reason": "The Mystery of Providence is listed as EEBO-TCP, but no A-number was verified, so it was not downloaded."
+    },
+    {
+      "id": "book-westminster-1946",
+      "title": "Westminster Confession (Wikisource Carruthers text)",
+      "reason": "The Wikisource page is S. W. Carruthers's 1946 transcription. That edition is not hosted. The confession is in Schaff, Creeds of Christendom, Volume III."
+    },
+    {
+      "id": "book-belgic",
+      "title": "Belgic Confession",
+      "reason": "No standalone PD-old Wikisource page was confirmed. The confession is in Schaff, Creeds of Christendom, Volume III."
+    },
+    {
+      "id": "book-thirty-nine-articles",
+      "title": "The Thirty-nine Articles",
+      "reason": "No standalone PD-old Wikisource page was confirmed. The Articles are in Schaff, Creeds of Christendom, Volume III."
+    },
+    {
+      "id": "book-canons-of-dort",
+      "title": "Canons of Dort",
+      "reason": "No standalone PD-old Wikisource page was confirmed. The Canons are in Schaff, Creeds of Christendom, Volume III."
+    },
+    {
+      "id": "book-christian-open-library",
+      "title": "christian-open-library books",
+      "reason": "The repository is invite-only and its terms say to ask first. Upstream Project Gutenberg files are used instead."
+    },
+    {
+      "id": "book-chambers-baffled",
+      "title": "Baffled to Fight Better",
+      "reason": "First printed in 1917, which would be US public domain, but the files found are a 1931/1955 Oswald Chambers Publications edition and a 1997 Discovery House edition. No verified 1917 text."
+    },
+    {
+      "id": "book-chambers-sermon-mount",
+      "title": "Studies in the Sermon on the Mount",
+      "reason": "The 1915 original would be US public domain. The scan found is the 1932 Marshall edition, which is not yet clearly public domain. Not hosted."
+    },
+    {
+      "id": "book-chambers-shade",
+      "title": "Shade of His Hand",
+      "reason": "Published in 1924. No verified 1924 source file was located, so it is not hosted."
+    },
+    {
+      "id": "book-chambers-redemption",
+      "title": "The Psychology of Redemption",
+      "reason": "Published in 1922. No verified 1922 source file was located, so it is not hosted."
+    },
+    {
+      "id": "book-chambers-agony",
+      "title": "The Shadow of an Agony",
+      "reason": "Published in 1918. No verified 1918 source file was located, so it is not hosted."
+    },
+    {
+      "id": "book-crazy-love",
+      "title": "Crazy Love",
+      "reason": "Francis Chan, 2008. Modern copyright. Not hosted."
+    },
+    {
+      "id": "book-forgotten-god",
+      "title": "Forgotten God",
+      "reason": "Francis Chan, 2009. Modern copyright. Not hosted."
+    },
+    {
+      "id": "book-erasing-hell",
+      "title": "Erasing Hell",
+      "reason": "Francis Chan and Preston Sprinkle, 2011. Modern copyright. Not hosted."
+    },
+    {
+      "id": "book-multiply",
+      "title": "Multiply",
+      "reason": "Francis Chan and Mark Beuving, 2012. Modern copyright. Not hosted."
+    },
+    {
+      "id": "book-you-and-me-forever",
+      "title": "You and Me Forever",
+      "reason": "Francis and Lisa Chan, 2014. Modern copyright. Not hosted."
+    },
+    {
+      "id": "book-letters-to-the-church",
+      "title": "Letters to the Church",
+      "reason": "Francis Chan, 2018. Modern copyright. Not hosted."
+    },
+    {
+      "id": "book-until-unity",
+      "title": "Until Unity",
+      "reason": "Francis Chan, 2021. Modern copyright. Not hosted."
+    },
+    {
+      "id": "book-heidelberg",
+      "title": "The Heidelberg Catechism",
+      "reason": "The file did not contain the expected title, so it was not hosted."
+    }
+  ]
+}
