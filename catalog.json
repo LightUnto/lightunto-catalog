@@ -1667,6 +1667,84 @@
       "proofUrl": "https://archive.org/details/biblicalpsycholo00cham",
       "downloadedAt": "2026-11-15",
       "publisher": "Internet Archive"
+    },
+    {
+      "id": "bridges-proverbs",
+      "title": "An Exposition of the Book of Proverbs",
+      "short": "Bridges (Proverbs)",
+      "author": "Charles Bridges",
+      "type": "commentary",
+      "license": "Public domain",
+      "licenseNotes": "Internet Archive item expositionprover00briduoft, 1865 R. Carter edition. IA possible-copyright-status NOT_IN_COPYRIGHT (US). Public domain by date (pre-1931). Downloaded 2026-11-20. ocr: true. ocr_cleanup: conservative typo pass (ligatures, dehyphenation, high-confidence Latin misreads). Greek was not altered.",
+      "sourceUrl": "https://archive.org/details/expositionprover00briduoft",
+      "proofUrl": "https://archive.org/details/expositionprover00briduoft",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "bridges-ecclesiastes",
+      "title": "An Exposition of the Book of Ecclesiastes",
+      "short": "Bridges (Ecclesiastes)",
+      "author": "Charles Bridges",
+      "type": "commentary",
+      "license": "Public domain",
+      "licenseNotes": "Internet Archive item expositionofbook00brid_0, 1860 R. Carter edition. Public domain by date (pre-1931 US publication). Downloaded 2026-11-20. ocr: true. ocr_cleanup: conservative typo pass (ligatures, dehyphenation, high-confidence Latin misreads). Greek was not altered.",
+      "sourceUrl": "https://archive.org/details/expositionofbook00brid_0",
+      "proofUrl": "https://archive.org/details/expositionofbook00brid_0",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "shedd-dogmatic-theology",
+      "title": "Dogmatic Theology",
+      "short": "Shedd",
+      "author": "W. G. T. Shedd",
+      "type": "book",
+      "categories": [
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain",
+      "licenseNotes": "Internet Archive items dogmatictheology01sheduoft, dogmatictheology02sheduoft (1888, possible-copyright-status NOT_IN_COPYRIGHT), and dogmatictheology03shed_0 (1894, public domain by date). Three volumes are one work. Downloaded 2026-11-20. ocr: true. ocr_cleanup: conservative typo pass (ligatures, dehyphenation, high-confidence Latin misreads). Greek was not altered.",
+      "sourceUrl": "https://archive.org/details/dogmatictheology01sheduoft",
+      "proofUrl": "https://archive.org/details/dogmatictheology01sheduoft",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "warfield-plan-of-salvation",
+      "title": "The Plan of Salvation",
+      "short": "Warfield",
+      "author": "B. B. Warfield",
+      "type": "book",
+      "categories": [
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public domain",
+      "licenseNotes": "Internet Archive item planofsalvation00warf, 1915 Presbyterian Board of Publication edition. IA possible-copyright-status NOT_IN_COPYRIGHT (US). Public domain by date (pre-1931). Downloaded 2026-11-20. ocr: true. ocr_cleanup: conservative typo pass (ligatures, dehyphenation, high-confidence Latin misreads; title-page TLAN, Warjield, J9f5). Greek was not altered.",
+      "sourceUrl": "https://archive.org/details/planofsalvation00warf",
+      "proofUrl": "https://archive.org/details/planofsalvation00warf",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Internet Archive"
+    },
+    {
+      "id": "trench-synonyms-nt",
+      "title": "Synonyms of the New Testament",
+      "short": "Trench",
+      "author": "Richard Chenevix Trench",
+      "type": "book",
+      "categories": [
+        "languages",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public domain",
+      "licenseNotes": "Internet Archive item synonymsofnewtes00treniala, 1894 Kegan Paul twelfth edition (the 1880 ninth-edition text, corrected). IA possible-copyright-status NOT_IN_COPYRIGHT (US). Public domain by date (pre-1931). Downloaded 2026-11-20. ocr: true. ocr_cleanup: conservative typo pass (ligatures, dehyphenation, high-confidence Latin misreads). Greek was not altered; suspect Greek OCR is logged, not fixed.",
+      "sourceUrl": "https://archive.org/details/synonymsofnewtes00treniala",
+      "proofUrl": "https://archive.org/details/synonymsofnewtes00treniala",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Internet Archive"
     }
   ],
   "skipped": [
