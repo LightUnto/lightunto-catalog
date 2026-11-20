@@ -1667,6 +1667,279 @@
       "proofUrl": "https://archive.org/details/biblicalpsycholo00cham",
       "downloadedAt": "2026-11-15",
       "publisher": "Internet Archive"
+    },
+    {
+      "id": "chrysostom-homilies-nt",
+      "title": "Homilies on the New Testament",
+      "short": "Chrysostom",
+      "author": "John Chrysostom",
+      "type": "commentary",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of John Chrysostom's Homilies on the New Testament (CCEL NPNF1-10, St. Chrysostom: Homilies on the Gospel of Saint Matthew) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf110, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf110",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf110",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "augustine-tractates-john",
+      "title": "Tractates on the Gospel of John",
+      "short": "Augustine (John)",
+      "author": "Augustine of Hippo",
+      "type": "commentary",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Augustine of Hippo's Tractates on the Gospel of John (CCEL NPNF1-07, St. Augustine: Homilies on the Gospel of John; Homilies on the First Epistle of John; Soliloquies) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf107, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf107",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf107",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "augustine-psalms",
+      "title": "Expositions on the Book of Psalms",
+      "short": "Augustine (Psalms)",
+      "author": "Augustine of Hippo",
+      "type": "commentary",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Augustine of Hippo's Expositions on the Book of Psalms (CCEL NPNF1-08, St. Augustine: Exposition on the Book of Psalms) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf108, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf108",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf108",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "augustine-gospels",
+      "title": "Sermon on the Mount, Harmony of the Gospels, and Homilies on the Gospels",
+      "short": "Augustine (Gospels)",
+      "author": "Augustine of Hippo",
+      "type": "commentary",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Augustine of Hippo's Sermon on the Mount, Harmony of the Gospels, and Homilies on the Gospels (CCEL NPNF1-06) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf106, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf106",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf106",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "edersheim-lifetimes",
+      "title": "The Life and Times of Jesus the Messiah",
+      "short": "Edersheim (Life and Times)",
+      "author": "Alfred Edersheim",
+      "type": "book",
+      "categories": [
+        "history",
+        "biography",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Alfred Edersheim's The Life and Times of Jesus the Messiah is from the Christian Classics Ethereal Library at https://ccel.org/ccel/edersheim/lifetimes, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/edersheim/lifetimes",
+      "sourceUrl": "https://ccel.org/ccel/edersheim/lifetimes",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "edersheim-temple",
+      "title": "The Temple: Its Ministry and Services",
+      "short": "Edersheim (Temple)",
+      "author": "Alfred Edersheim",
+      "type": "book",
+      "categories": [
+        "history",
+        "theology"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Alfred Edersheim's The Temple: Its Ministry and Services is from the Christian Classics Ethereal Library at https://ccel.org/ccel/edersheim/temple, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/edersheim/temple",
+      "sourceUrl": "https://ccel.org/ccel/edersheim/temple",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "athanasius-select-works",
+      "title": "Select Works and Letters",
+      "short": "Athanasius",
+      "author": "Athanasius of Alexandria",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "theology",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Athanasius of Alexandria's Select Works and Letters (CCEL NPNF2-04, Athanasius: Select Works and Letters) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf204, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf204",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf204",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "irenaeus-against-heresies",
+      "title": "Against Heresies and Demonstration of the Apostolic Preaching",
+      "short": "Irenaeus",
+      "author": "Irenaeus of Lyons",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "apologetics",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Irenaeus of Lyons's Against Heresies and Demonstration of the Apostolic Preaching (CCEL ANF01, The Apostolic Fathers with Justin Martyr and Irenaeus) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/anf01, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/anf01",
+      "sourceUrl": "https://ccel.org/ccel/schaff/anf01",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "eusebius-church-history",
+      "title": "Church History and Constantinian Works",
+      "short": "Eusebius",
+      "author": "Eusebius of Caesarea",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "history",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Eusebius of Caesarea's Church History and Constantinian Works (CCEL NPNF2-01: Church History, Life of Constantine, and Oration in Praise of Constantine) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf201, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf201",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf201",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "schaff-church-history",
+      "title": "History of the Christian Church",
+      "short": "Schaff (Church History)",
+      "author": "Philip Schaff",
+      "type": "book",
+      "categories": [
+        "history",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Philip Schaff's History of the Christian Church (CCEL Volume I: Apostolic Christianity, A.D. 1-100) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/hcc1, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/hcc1",
+      "sourceUrl": "https://ccel.org/ccel/schaff/hcc1",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "hodge-systematic-theology",
+      "title": "Systematic Theology",
+      "short": "Hodge",
+      "author": "Charles Hodge",
+      "type": "book",
+      "categories": [
+        "theology",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Charles Hodge's Systematic Theology (CCEL Systematic Theology, Volume I) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/hodge/theology1, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/hodge/theology1",
+      "sourceUrl": "https://ccel.org/ccel/hodge/theology1",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "augustine-on-the-trinity",
+      "title": "On the Trinity and Other Treatises",
+      "short": "Augustine (Trinity)",
+      "author": "Augustine of Hippo",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "theology",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Augustine of Hippo's On the Trinity and Other Treatises (CCEL NPNF1-03: On the Holy Trinity; Doctrinal Treatises; Moral Treatises) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf103, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf103",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf103",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "basil-on-the-holy-spirit",
+      "title": "On the Holy Spirit, the Hexaemeron, and Letters",
+      "short": "Basil",
+      "author": "Basil of Caesarea",
+      "type": "book",
+      "categories": [
+        "fathers",
+        "theology",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Basil of Caesarea's On the Holy Spirit, the Hexaemeron, and Letters (CCEL NPNF2-08, Basil: Letters and Select Works) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/schaff/npnf208, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/schaff/npnf208",
+      "sourceUrl": "https://ccel.org/ccel/schaff/npnf208",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "anselm-basic-works",
+      "title": "Proslogium, Monologium, and Cur Deus Homo",
+      "short": "Anselm",
+      "author": "Anselm of Canterbury",
+      "type": "book",
+      "categories": [
+        "theology",
+        "apologetics",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Anselm of Canterbury's Proslogium, Monologium, and Cur Deus Homo (CCEL edition, including Gaunilon's appendix) is from the Christian Classics Ethereal Library at https://ccel.org/ccel/anselm/basic_works, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/anselm/basic_works",
+      "sourceUrl": "https://ccel.org/ccel/anselm/basic_works",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "id": "edwards-freedom-of-the-will",
+      "title": "Freedom of the Will",
+      "short": "Edwards (Will)",
+      "author": "Jonathan Edwards",
+      "type": "book",
+      "categories": [
+        "puritans",
+        "theology",
+        "classics"
+      ],
+      "shape": "chapters",
+      "license": "Public Domain (US); CCEL file terms: non-commercial, credit+link",
+      "licenseNotes": "The text of Jonathan Edwards's Freedom of the Will is from the Christian Classics Ethereal Library at https://ccel.org/ccel/edwards/will, Public Domain (US); CCEL file terms: non-commercial, credit+link. Downloaded 2026-11-20.",
+      "attribution": "Text from the Christian Classics Ethereal Library (ccel.org), https://ccel.org/ccel/edwards/will",
+      "sourceUrl": "https://ccel.org/ccel/edwards/will",
+      "proofUrl": "/workspace/openlogia/licenses/ccel-2026-11-20/",
+      "downloadedAt": "2026-11-20",
+      "publisher": "Christian Classics Ethereal Library"
     }
   ],
   "skipped": [
